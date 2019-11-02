@@ -1,4 +1,4 @@
-package com.example.githubfollower.data
+package com.example.githubfollower.feature.webtoon
 
 data class WebtoonData (
     val webtoon_img : Int,
